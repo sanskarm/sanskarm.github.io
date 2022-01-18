@@ -9,14 +9,14 @@ IN PROGRESS
 ### Education
 
 <i class="fa fa-graduation-cap"></i>
-BTech in Civil Engineering, 2019 - *present*<br>
+BTech in Materials Science & Engineering, 2019 - *present*<br>
 *IIT Kanpur*
 
 <i class="fa fa-graduation-cap"></i>
 Senior Secondary Education, 2019<br>
-*Sarvodaya Senior Secondary School, Kota*
+*Annie Besant School, Indore*
 
 <i class="fa fa-graduation-cap"></i>
 Secondary Education, 2017<br>
-*St. Joseph's Convent Senior Secondary School, Jalgaon*
+*Sacred Heart Co-Ed Sr. Sec. School, Indore*
 
