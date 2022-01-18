@@ -44,15 +44,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "sanskars@iitk.ac.in"
-  facebook: sanskar.shah.242
-  github: sans242
+  email: "sanskarm@iitk.ac.in"
+  facebook: sanskar.mittal.100
+  github: sanskarm
   # twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: sanskar242
+  linkedin: sanskarm4
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
